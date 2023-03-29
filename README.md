@@ -1,6 +1,6 @@
-## GraphSage: Representation Learning on Large Graphs
+This repo is based on [GraphSage repo](https://github.com/williamleif/GraphSAGE/). GraphSAGE repo was not working properly and not compatible with python 3, networkx 3 and tensorflow 2. This repo is a new version of GraphSAGE for up-to-date python and python packages.
 
-### This repo is based on [GraphSage repo](https://github.com/williamleif/GraphSAGE/). GraphSAGE repo was not working properly and not compatible with python=3, networkx==3 and tensorflow==2. This repo is a new version of GraphSAGE for up-to-date python and python packages.
+## GraphSage: Representation Learning on Large Graphs
 
 #### Authors: [William L. Hamilton](http://stanford.edu/~wleif) (wleif@stanford.edu), [Rex Ying](http://joy-of-thinking.weebly.com/) (rexying@stanford.edu)
 #### [Project Website](http://snap.stanford.edu/graphsage/)
